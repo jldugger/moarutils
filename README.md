@@ -11,4 +11,4 @@ We will reject your tool if it:
 
 ## What's Included
 
-Coming soon!
+trim: remove trailing and leading whitespace
