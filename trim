@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# trim whitespace
+#
+
+function trim {
+  awk '{$1=$1};1'
+}
+
+trim
