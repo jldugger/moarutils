@@ -6,7 +6,6 @@
 set -e
 set -o pipefail
 
-
 # find all executables and run `shellcheck`
 
 RET=0
