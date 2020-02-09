@@ -1,14 +1,14 @@
 # moarutils
 
-A collection of CLI tools too lazy to live independently
+A community housing project for CLI tools too lazy to live independently
 
 ## Philosophy
 
 Tools in moarutils should conform to the UNIX philosophy of doing one thing well. Or in our case, kinda okay.
-We will reject your tool if it:
+We will reject your housing application if it:
 
-• does too many things
-• fails to do [the dishes](https://www.shellcheck.net/) regularly
+• does too many things  
+• fails to do [the dishes](https://www.shellcheck.net/) regularly  
 • is [too good](https://joeyh.name/code/moreutils/)
 
 ## What's Included
