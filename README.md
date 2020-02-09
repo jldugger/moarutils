@@ -1,5 +1,6 @@
 # moarutils
-A collection of tools too dumb to live independently
+
+A collection of CLI tools too lazy to live independently
 
 ## Philosophy
 
