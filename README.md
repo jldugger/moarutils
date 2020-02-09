@@ -1,5 +1,7 @@
 # moarutils
 
+[![Travis CI](https://travis-ci.com/jldugger/moarutils.svg?branch=master)](https://travis-ci.com/jldugger/moarutils)
+
 A community housing project for CLI tools too lazy to live independently
 
 ## Philosophy
