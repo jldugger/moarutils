@@ -1,4 +1,5 @@
 # moarutils
+
 A collection of CLI tools too lazy to live independently
 
 ## Philosophy
