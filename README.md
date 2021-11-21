@@ -1,6 +1,6 @@
 # moarutils
 
-[![Travis CI](https://travis-ci.com/jldugger/moarutils.svg?branch=master)](https://travis-ci.com/jldugger/moarutils)
+[![shellcheck](https://github.com/jldugger/moarutils/actions/workflows/main.yml/badge.svg)](https://github.com/jldugger/moarutils/actions/workflows/main.yml)
 
 A community housing project for CLI tools too lazy to live independently
 
